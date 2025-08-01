@@ -6,7 +6,7 @@ You will need one Esp32 devkit v1 and 16x2 led shiled. some jumpers if you want 
 ![image alt](https://github.com/BlackCloudpi/Led-Dance/blob/715890b40e2a75dcc0d5367a3535c583f55af146/6080145920185453269%20(1).jpg)
 
 
-#Requirements
+##Requirements
 1. ESP32
 2. 16x2 keypad led matrix
 3. some jumper wires

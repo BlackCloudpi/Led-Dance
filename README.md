@@ -7,4 +7,5 @@ You will need one Esp32 devkit v1 and 16x2 led shiled. some jumpers if you want 
 
 
 
-<font color="red">This is red text.</font>
+<span style="color:red">This is red text.</span>
+
